@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou o Ramon Almeida Roque 👋
 
-<!--
-**Ramon31rs/Ramon31rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Analista de Dados Júnior | Suporte de TI & Business Intelligence
 
-Here are some ideas to get you started:
+Bacharel em Ciência da Computação pela USCS, apaixonado por transformar dados em decisões estratégicas. Tenho experiência em **SQL**, **Power BI** e **Excel Avançado**, além de criar projetos unindo **Análise de Dados** e **Inteligência Artificial (RAG/Python)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Conhecimentos e Tecnologias
+
+- **Dados & BI:** SQL (MySQL), Power BI, Excel Avançado, Power Query, Modelagem de Dados.
+- **Programação & IA:** Python, RAG (Hugging Face / LLMs), Git/GitHub, Jupyter Notebooks, Java, Kotlin.
+- **Desenvolvimento & Cloud:** HTML, CSS, WordPress, AWS (Cloud Foundations).
+- **Infraestrutura:** Helpdesk (N1/N2), Suporte de TI, Redes TCP/IP, Rotinas de Backup.
+
+---
+
+### 🚀 Projetos em Destaque
+
+- 🤖 **[Implementação de RAG com Hugging Face](#)** — Sistema de Retrieval-Augmented Generation para consultas inteligentes em documentos.
+- 🗄️ **[Banco de Dados de Contas - MySQL](#)** — Modelagem e estruturação de banco de dados relacional para gerenciamento financeiro/administrativo.
+- 📱 **[Aware Kids](#)** — Aplicativo focado em segurança digital infantil utilizando Kotlin / Android.
+- 🌐 **[Martec - Catálogo & Site Comercial](#)** — Solução web desenvolvida em HTML/CSS para suporte operacional e expansão comercial.
+
+---
+
+### 📬 Vamos nos conectar?
+
+- 💼 **LinkedIn:** [linkedin.com/in/ramonalmeidaroque](https://linkedin.com/in/ramonalmeidaroque)
+- 📧 **E-mail:** ramon31_rs@hotmail.com
+- 📍 **Localização:** São Caetano do Sul - SP
