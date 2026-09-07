@@ -17,7 +17,7 @@ Bacharel em Ciência da Computação pela USCS, apaixonado por transformar dados
 
 ### 🚀 Projetos em Destaque
 
-- 🤖 **[Implementação de RAG com Hugging Face](#)** — Sistema de Retrieval-Augmented Generation para consultas inteligentes em documentos.
+- 🤖 **[https://github.com/Ramon31rs/ia-huggingface-rag.git](#)** — Sistema de Retrieval-Augmented Generation para consultas inteligentes em documentos.
 - 🗄️ **[Banco de Dados de Contas - MySQL](#)** — Modelagem e estruturação de banco de dados relacional para gerenciamento financeiro/administrativo.
 - 📱 **[Aware Kids](#)** — Aplicativo focado em segurança digital infantil utilizando Kotlin / Android.
 - 🌐 **[Martec - Catálogo & Site Comercial](#)** — Solução web desenvolvida em HTML/CSS para suporte operacional e expansão comercial.
