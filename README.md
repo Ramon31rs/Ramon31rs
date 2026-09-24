@@ -2,13 +2,13 @@
 
 ### 📊 Analista de Dados Júnior | Suporte de TI & Business Intelligence
 
-Bacharel em Ciência da Computação pela USCS, apaixonado por transformar dados em decisões estratégicas. Tenho experiência em **SQL**, **Power BI** e **Excel Avançado**, além de criar projetos unindo **Análise de Dados** e **Inteligência Artificial (RAG/Python)**.
+Bacharel em Ciência da Computação pela USCS, apaixonado por transformar dados em decisões estratégicas. Tenho experiência em **SQL**, **Power BI** e **Excel Intermediario**, além de criar projetos unindo **Análise de Dados** e **Inteligência Artificial (RAG/Python)**.
 
 ---
 
 ### 💻 Conhecimentos e Tecnologias
 
-- **Dados & BI:** SQL (MySQL), Power BI, Excel Avançado, Power Query, Modelagem de Dados.
+- **Dados & BI:** SQL (MySQL), Power BI, Excel Intermediario, Power Query, Modelagem de Dados.
 - **Programação & IA:** Python, RAG (Hugging Face / LLMs), Git/GitHub, Jupyter Notebooks, Java, Kotlin.
 - **Desenvolvimento & Cloud:** HTML, CSS, WordPress, AWS (Cloud Foundations).
 - **Infraestrutura:** Helpdesk (N1/N2), Suporte de TI, Redes TCP/IP, Rotinas de Backup.
